@@ -1,5 +1,3 @@
-# big brrr
-
 trojan://58093601-818b-4a3b-902e-f32ff20862a3@176.98.188.19:2096?security=none&type=ws&host=vk.com&path=%2Ftrojan-vk#Trojan-VK
 
 vless://58093601-818b-4a3b-902e-f32ff20862a3@176.98.188.19:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.ozon.ru&fp=chrome&pbk=JQ0L_Eh3Zzbu7Chwch_MikYpnNempEpcnNnChP06NSo&sid=174a6601e51e1db8&type=tcp&headerType=none#VLESS-Ozon
@@ -37,3 +35,21 @@ vless://6367ce57-0a39-46d6-9bee-5c829945dde6@176.98.188.19:1053?encryption=none&
 vless://32cf9458-72b1-4620-94ee-21b7454e6b19@176.98.188.19:1093?encryption=none&security=none&type=ws&host=kion.ru&path=%2Fvless-kion#VLESS-WS-Kion
 
 vless://58093601-818b-4a3b-902e-f32ff20862a3@176.98.188.19:1073?encryption=none&security=none&type=ws&host=dzen.ru&path=%2Fvless-dzen#VLESS-WS-Dzen
+
+trojan://58093601-818b-4a3b-902e-f32ff20862a3@176.98.188.19:14443?security=none&type=ws&host=my.beeline.ru&path=%2Ftr-beeline-my#Trojan-Beeline-My
+
+trojan://6367ce57-0a39-46d6-9bee-5c829945dde6@176.98.188.19:15443?security=none&type=ws&host=login.beeline.ru&path=%2Ftr-beeline-login#Trojan-Beeline-Login
+
+trojan://32cf9458-72b1-4620-94ee-21b7454e6b19@176.98.188.19:16443?security=none&type=ws&host=api.beeline.ru&path=%2Ftr-beeline-api#Trojan-Beeline-API
+
+trojan://58093601-818b-4a3b-902e-f32ff20862a3@176.98.188.19:17443?security=none&type=ws&host=m.beeline.ru&path=%2Ftr-beeline-mobile#Trojan-Beeline-Mobile
+
+trojan://6367ce57-0a39-46d6-9bee-5c829945dde6@176.98.188.19:18443?security=none&type=ws&host=pay.beeline.ru&path=%2Ftr-beeline-pay#Trojan-Beeline-Pay
+
+trojan://32cf9458-72b1-4620-94ee-21b7454e6b19@176.98.188.19:19443?security=none&type=ws&host=securepayments.tinkoff.ru&path=%2Ftr-tinkoff#Trojan-Tinkoff
+
+trojan://58093601-818b-4a3b-902e-f32ff20862a3@176.98.188.19:20443?security=none&type=ws&host=cloud.beeline.ru&path=%2Ftr-beeline-cloud#Trojan-Beeline-Cloud
+
+vless://6367ce57-0a39-46d6-9bee-5c829945dde6@176.98.188.19:21443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=securepayments.tinkoff.ru&fp=chrome&pbk=JQ0L_Eh3Zzbu7Chwch_MikYpnNempEpcnNnChP06NSo&sid=174a6601&type=tcp&headerType=none#VLESS-Tinkoff-Reality
+
+vless://32cf9458-72b1-4620-94ee-21b7454e6b19@176.98.188.19:1133?encryption=none&security=none&type=ws&host=my.beeline.ru&path=%2Fvless-beeline-my#VLESS-Beeline-My

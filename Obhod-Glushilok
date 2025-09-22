@@ -1,8 +1,8 @@
 trojan://58093601-818b-4a3b-902e-f32ff20862a3@176.98.188.19:2096?security=none&type=ws&host=vk.com&path=%2Ftrojan-vk#Trojan-VK
 
-vless://58093601-818b-4a3b-902e-f32ff20862a3@176.98.188.19:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.ozon.ru&fp=chrome&pbk=JQ0L_Eh3Zzbu7Chwch_MikYpnNempEpcnNnChP06NSo&sid=174a6601e51e1db8&type=tcp&headerType=none#VLESS-Ozon
+vless://58093601-818b-4a3b-902e-f32ff20862a3@176.98.188.19:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.ozon.ru&fp=chrome&pbk=JQ0L_Eh3Zzbu7Chwch_MikYpnNempEpcnNnChP06NSo&sid=174a6601e51e1db8&type=tcp&headerType=none#VLESS-Reality(Ozon)
 
-trojan://6367ce57-0a39-46d6-9bee-5c829945dde6@176.98.188.19:8880?security=none&type=ws&host=mts.ru&path=%2Ftr-mts#Trojan-MTS
+trojan://6367ce57-0a39-46d6-9bee-5c829945dde6@176.98.188.19:8880?security=none&type=ws&host=mts.ru&path=%2Ftr-mts#Trojan-МТС
 
 trojan://32cf9458-72b1-4620-94ee-21b7454e6b19@176.98.188.19:9443?security=none&type=ws&host=www.avito.ru&path=%2Ftr-avito#Trojan-Avito
 
@@ -12,44 +12,44 @@ trojan://6367ce57-0a39-46d6-9bee-5c829945dde6@176.98.188.19:6443?security=none&t
 
 trojan://58093601-818b-4a3b-902e-f32ff20862a3@176.98.188.19:5443?security=none&type=ws&host=magnit.ru&path=%2Ftr-magnit#Trojan-Magnit
 
-trojan://32cf9458-72b1-4620-94ee-21b7454e6b19@176.98.188.19:4443?security=none&type=ws&host=dzen.ru&path=%2Ftr-dzen#Trojan-Dzen
+trojan://32cf9458-72b1-4620-94ee-21b7454e6b19@176.98.188.19:4443?security=none&type=ws&host=dzen.ru&path=%2Ftr-dzen#Trojan-Дзен
 
-trojan://6367ce57-0a39-46d6-9bee-5c829945dde6@176.98.188.19:3443?security=none&type=ws&host=www.kinopoisk.ru&path=%2Ftr-kinopoisk#Trojan-Kinopoisk
+trojan://6367ce57-0a39-46d6-9bee-5c829945dde6@176.98.188.19:3443?security=none&type=ws&host=www.kinopoisk.ru&path=%2Ftr-kinopoisk#Trojan-Кинопоиск
 
 trojan://58093601-818b-4a3b-902e-f32ff20862a3@176.98.188.19:2443?security=none&type=ws&host=rutube.ru&path=%2Ftr-rutube#Trojan-RuTube
 
-trojan://32cf9458-72b1-4620-94ee-21b7454e6b19@176.98.188.19:1443?security=none&type=ws&host=ya.ru&path=%2Ftr-yandex#Trojan-Yandex
+trojan://32cf9458-72b1-4620-94ee-21b7454e6b19@176.98.188.19:1443?security=none&type=ws&host=ya.ru&path=%2Ftr-yandex#Trojan-Яндекс
 
-trojan://6367ce57-0a39-46d6-9bee-5c829945dde6@176.98.188.19:13443?security=none&type=ws&host=www.gosuslugi.ru&path=%2Ftr-gosuslugi#Trojan-Gosuslugi
+trojan://6367ce57-0a39-46d6-9bee-5c829945dde6@176.98.188.19:13443?security=none&type=ws&host=www.gosuslugi.ru&path=%2Ftr-gosuslugi#Trojan-Госуслуги
 
 trojan://58093601-818b-4a3b-902e-f32ff20862a3@176.98.188.19:12443?security=none&type=ws&host=mail.ru&path=%2Ftr-mail#Trojan-Mail
 
-trojan://32cf9458-72b1-4620-94ee-21b7454e6b19@176.98.188.19:11443?security=none&type=ws&host=kion.ru&path=%2Ftr-kion#Trojan-Kion
+trojan://32cf9458-72b1-4620-94ee-21b7454e6b19@176.98.188.19:11443?security=none&type=ws&host=kion.ru&path=%2Ftr-kion#Trojan-Кион
 
-trojan://6367ce57-0a39-46d6-9bee-5c829945dde6@176.98.188.19:10443?security=none&type=ws&host=market.yandex.ru&path=%2Ftr-market#Trojan-Market
+trojan://6367ce57-0a39-46d6-9bee-5c829945dde6@176.98.188.19:10443?security=none&type=ws&host=market.yandex.ru&path=%2Ftr-market#Trojan-Маркет
 
-vless://58093601-818b-4a3b-902e-f32ff20862a3@176.98.188.19:2053?encryption=none&security=none&type=ws&host=www.wildberries.ru&path=%2Fvless-wb#VLESS-WS-WB
+vless://58093601-818b-4a3b-902e-f32ff20862a3@176.98.188.19:2053?encryption=none&security=none&type=ws&host=www.wildberries.ru&path=%2Fvless-wb#VLESS-WS(WB)
 
-vless://6367ce57-0a39-46d6-9bee-5c829945dde6@176.98.188.19:1053?encryption=none&security=none&type=ws&host=market.yandex.ru&path=%2Fvless-market#VLESS-WS-Market
+vless://6367ce57-0a39-46d6-9bee-5c829945dde6@176.98.188.19:1053?encryption=none&security=none&type=ws&host=market.yandex.ru&path=%2Fvless-market#VLESS-WS(Маркет)
 
-vless://32cf9458-72b1-4620-94ee-21b7454e6b19@176.98.188.19:1093?encryption=none&security=none&type=ws&host=kion.ru&path=%2Fvless-kion#VLESS-WS-Kion
+vless://32cf9458-72b1-4620-94ee-21b7454e6b19@176.98.188.19:1093?encryption=none&security=none&type=ws&host=kion.ru&path=%2Fvless-kion#VLESS-WS(Кион)
 
-vless://58093601-818b-4a3b-902e-f32ff20862a3@176.98.188.19:1073?encryption=none&security=none&type=ws&host=dzen.ru&path=%2Fvless-dzen#VLESS-WS-Dzen
+vless://58093601-818b-4a3b-902e-f32ff20862a3@176.98.188.19:1073?encryption=none&security=none&type=ws&host=dzen.ru&path=%2Fvless-dzen#VLESS-WS(Дзен)
 
-trojan://58093601-818b-4a3b-902e-f32ff20862a3@176.98.188.19:14443?security=none&type=ws&host=my.beeline.ru&path=%2Ftr-beeline-my#Trojan-Beeline-My
+trojan://58093601-818b-4a3b-902e-f32ff20862a3@176.98.188.19:14443?security=none&type=ws&host=my.beeline.ru&path=%2Ftr-beeline-my#Trojan-Билайн(My)
 
-trojan://6367ce57-0a39-46d6-9bee-5c829945dde6@176.98.188.19:15443?security=none&type=ws&host=login.beeline.ru&path=%2Ftr-beeline-login#Trojan-Beeline-Login
+trojan://6367ce57-0a39-46d6-9bee-5c829945dde6@176.98.188.19:15443?security=none&type=ws&host=login.beeline.ru&path=%2Ftr-beeline-login#Trojan-Билайн(Login)
 
-trojan://32cf9458-72b1-4620-94ee-21b7454e6b19@176.98.188.19:16443?security=none&type=ws&host=api.beeline.ru&path=%2Ftr-beeline-api#Trojan-Beeline-API
+trojan://32cf9458-72b1-4620-94ee-21b7454e6b19@176.98.188.19:16443?security=none&type=ws&host=api.beeline.ru&path=%2Ftr-beeline-api#Trojan-Билайн(API)
 
-trojan://58093601-818b-4a3b-902e-f32ff20862a3@176.98.188.19:17443?security=none&type=ws&host=m.beeline.ru&path=%2Ftr-beeline-mobile#Trojan-Beeline-Mobile
+trojan://58093601-818b-4a3b-902e-f32ff20862a3@176.98.188.19:17443?security=none&type=ws&host=m.beeline.ru&path=%2Ftr-beeline-mobile#Trojan-Билайн(Mobile)
 
-trojan://6367ce57-0a39-46d6-9bee-5c829945dde6@176.98.188.19:18443?security=none&type=ws&host=pay.beeline.ru&path=%2Ftr-beeline-pay#Trojan-Beeline-Pay
+trojan://6367ce57-0a39-46d6-9bee-5c829945dde6@176.98.188.19:18443?security=none&type=ws&host=pay.beeline.ru&path=%2Ftr-beeline-pay#Trojan-Билайн(Pay)
 
-trojan://32cf9458-72b1-4620-94ee-21b7454e6b19@176.98.188.19:19443?security=none&type=ws&host=securepayments.tinkoff.ru&path=%2Ftr-tinkoff#Trojan-Tinkoff
+trojan://32cf9458-72b1-4620-94ee-21b7454e6b19@176.98.188.19:19443?security=none&type=ws&host=securepayments.tinkoff.ru&path=%2Ftr-tinkoff#Trojan-Тинькофф
 
-trojan://58093601-818b-4a3b-902e-f32ff20862a3@176.98.188.19:20443?security=none&type=ws&host=cloud.beeline.ru&path=%2Ftr-beeline-cloud#Trojan-Beeline-Cloud
+trojan://58093601-818b-4a3b-902e-f32ff20862a3@176.98.188.19:20443?security=none&type=ws&host=cloud.beeline.ru&path=%2Ftr-beeline-cloud#Trojan-Билайн(Cloud)
 
-vless://6367ce57-0a39-46d6-9bee-5c829945dde6@176.98.188.19:21443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=securepayments.tinkoff.ru&fp=chrome&pbk=JQ0L_Eh3Zzbu7Chwch_MikYpnNempEpcnNnChP06NSo&sid=174a6601&type=tcp&headerType=none#VLESS-Tinkoff-Reality
+vless://6367ce57-0a39-46d6-9bee-5c829945dde6@176.98.188.19:21443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=securepayments.tinkoff.ru&fp=chrome&pbk=JQ0L_Eh3Zzbu7Chwch_MikYpnNempEpcnNnChP06NSo&sid=174a6601&type=tcp&headerType=none#VLESS-Reality(Тинькофф)
 
-vless://32cf9458-72b1-4620-94ee-21b7454e6b19@176.98.188.19:1133?encryption=none&security=none&type=ws&host=my.beeline.ru&path=%2Fvless-beeline-my#VLESS-Beeline-My
+vless://32cf9458-72b1-4620-94ee-21b7454e6b19@176.98.188.19:1133?encryption=none&security=none&type=ws&host=my.beeline.ru&path=%2Fvless-beeline-my#VLESS-WS(Билайн)
